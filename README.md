@@ -3,8 +3,9 @@
 - MySQL was for the database 
 - XAMPP PHPmyadmin was used to create the database and tables
 - Data was cleaned and normalized using PHPmyadmin
-![Database-Designer-view-localhost phpMyAdmin](https://user-images.githubusercontent.com/5301791/137634380-d89c7ff9-c268-4d0a-8f62-0559cee32c52.png)
-![Database-tables-localhost phpMyAdmin](https://user-images.githubusercontent.com/5301791/137634383-fb4448de-f5a3-48b9-8359-0558eccc2971.png)
-![School Users-Tables-localhost phpMyAdmin](https://user-images.githubusercontent.com/5301791/137634384-b41fd63d-fa19-4314-8024-d1d921acd5a6.png)
-![user_school-foreignKey-constraint-localhost phpMyAdmin](https://user-images.githubusercontent.com/5301791/137634385-139386fa-f3ae-45bf-9993-d062fc2e9119.png)
-![Users-Table-Structure-Linked-ForeignKey-localhost phpMyAdmin](https://user-images.githubusercontent.com/5301791/137634386-45a13e7e-1806-4808-a51b-b9c672248734.png)
+![Database-tables-localhost phpMyAdmin](https://user-images.githubusercontent.com/5301791/137634464-cad1004b-4ecf-463a-8450-75620bb1d801.png)
+![School Users-Tables-localhost phpMyAdmin](https://user-images.githubusercontent.com/5301791/137634438-5970bebd-b9fb-4ebe-9d81-784c3003bb54.png)
+![School Users-Tables-localhost phpMyAdmin](https://user-images.githubusercontent.com/5301791/137634505-caaec4e3-63d0-45d7-a50d-b2ba8a409583.png)
+![Users-Table-Structure-Linked-ForeignKey-localhost phpMyAdmin](https://user-images.githubusercontent.com/5301791/137634513-698f81a6-6b95-44c0-95aa-ee9681772c29.png)
+![user_school-foreignKey-constraint-localhost phpMyAdmin](https://user-images.githubusercontent.com/5301791/137634526-bd1555f3-bf88-48e6-b41d-c8b33c2bf319.png)
+![Database-Designer-view-localhost phpMyAdmin](https://user-images.githubusercontent.com/5301791/137634536-e0500ce4-2b11-42fa-a48d-650b019718b1.png)
